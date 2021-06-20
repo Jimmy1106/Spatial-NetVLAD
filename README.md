@@ -23,7 +23,7 @@
 |   Pre-trained CNN   | Pooling/Encoding layer | Accuracy |
 | :---: | :---: |  :---:   |
 |  MoblieNet  | Avg-pooling       | 93.3% |
-|  MoblieNet  | Spatial-NetVLAD  | <u>96.7% |
+|  MoblieNet  | Spatial-NetVLAD  | <ins>96.7%</ins> |
 
 <!-- |   Pre-trained CNN   | Pooling/Encoding layer | Accuracy |
 | :---: | :---: |  :---:   |
@@ -40,7 +40,7 @@
 | :---: | :---: |  :---:   |
 |  Vgg16  | Avg-pooling  | 78.3% |
 |  Vgg16  | NetVLAD  | 79.7% |
-|  Vgg16  | Spatial-NetVLAD  | <u>86.9% |
+|  Vgg16  | Spatial-NetVLAD  | <ins>86.9%</ins> |
 
 
 
