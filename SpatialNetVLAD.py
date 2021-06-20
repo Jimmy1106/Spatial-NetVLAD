@@ -3,7 +3,7 @@ import tensorflow.keras.backend as K
 import tensorflow as tf
 
 class SpatialNetVLAD(Layer):
-    def __init__(self, pool_list, num_clusters, **kwargs):
+    def __init__(self, pool_list=[3], num_clusters, **kwargs):
 
         self.pool_list = pool_list
         self.K = num_clusters
