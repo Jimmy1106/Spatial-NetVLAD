@@ -44,6 +44,14 @@
 
 
 
+## **Reference works**
+<!-- - K. He et al., "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition," 2014
+- Relja Arandjelović et al., "NetVLAD: CNN architecture for weakly supervised place recognition," 2015 -->
+- Madhan Chandrasekharan ,"[Fish Classification-Transfer Learning Tensorflow](https://www.kaggle.com/gcmadhan/fish-classification-transfer-learning-tensorflow)" on Kaggle, 2021 
+- crlz182 , "[Netvlad-Keras](https://github.com/crlz182/Netvlad-Keras)" on Github, 2019
+- Yann Henon ,"[keras-spp](https://github.com/yhenon/keras-spp)" on Github, 2017
+
+
 ## **Contact** 
 
 * Email: jerming0515@gmail.com
