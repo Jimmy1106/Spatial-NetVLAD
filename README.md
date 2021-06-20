@@ -8,7 +8,7 @@
 
 <br>
 
-## **Architechture** 
+## **Architecture** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/GLW6YCG.jpg" width="">
 
