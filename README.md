@@ -4,7 +4,7 @@
 
 # **Spatial-NetVLAD**
 
-* An encoding layer that improves the CNN performance on Image classification tasks.
+* An encoding layer that can improve CNN performance on Image classification tasks.
 
 <br>
 
